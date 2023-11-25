@@ -1,0 +1,30 @@
+.resimSlider{
+    height: 700px;
+    
+}
+body{
+    padding-top: 50px;
+    font-family: 'Nunito', sans-serif;
+}
+.hakkimda{
+    background-color: #f2f2f2;
+}
+.ikon{
+    border: none;
+    border-top:  5px solid#343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.ibeyaz{
+    color: #343a40;
+}
+.projelerim{
+    color: #343a40;
+}
+.kart>img:hover{
+    opacity:0.8 ;
+    
+}
+.iletisim{
+    background-color: #f2f2f2;
+}
